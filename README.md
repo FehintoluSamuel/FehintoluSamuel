@@ -6,8 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI /Computer Vision | ML Engineer | Data Analyst
 ------------------------------------------------
 
-Passionate about the trajectory of advanced computational materials discovery using Artificial Intelligence for biomedical research and healthcare.
-
+Materials Engineer with a strong foundation in physical metallurgy and a growing passion for applying machine learning and computer vision in biomedical research and computational materials science. I’m particularly interested in the design of biocompatible materials, medical devices, and implantable systems using data-driven approaches. My work is inspired by the UN Sustainable Development Goals, especially in advancing good health (SDG 3), sustainable innovation (SDG 9), and responsible production (SDG 12). Eager to collaborate at the intersection of engineering, AI, and health to drive impactful, human-centered solutions.
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [fehintolusamuel@gmail.com](mailto:fehintolusamuel@gmail.com)
 * 🧠  I'm learning Neural Network |Computational Materials
